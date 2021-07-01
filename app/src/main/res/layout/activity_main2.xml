@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nrupul"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="19dp"
+        android:paddingBottom="19dp"
+        android:paddingLeft="33dp"
+        android:paddingRight="33dp"
+        android:background="#DE1717"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dev"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="19dp"
+        android:paddingBottom="11dp"
+        android:paddingLeft="69dp"
+        android:paddingRight="33dp"
+        android:background="#0E0481"
+        android:layout_alignParentEnd="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rahul"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="11dp"
+        android:paddingBottom="11dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="51dp"
+        android:background="#3F0D66"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parteek"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:paddingTop="13dp"
+        android:paddingBottom="22dp"
+        android:paddingLeft="44dp"
+        android:paddingRight="25dp"
+        android:background="#B4A311"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="140dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aman"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="21dp"
+        android:paddingBottom="8dp"
+        android:paddingLeft="44dp"
+        android:paddingRight="40dp"
+        android:background="#920495"
+        android:layout_marginTop="280dp"/>
+
+</RelativeLayout>
